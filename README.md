@@ -10,9 +10,9 @@
 <p align="center">
 💻 Accepting new clients 🫶🏽 
   <br>
-📫 Email me at **nanayamiki@gmail.com**
+📫 Email me at <a href="mailto:nanayamiki@gmail.com" target="_blank" rel="noopener">nanayamiki@gmail.com</a>
   <br>
-Check <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for more information!</p>
+Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for more information!</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lala0419&theme=dark-smoky"(https://git.io/streak-stats)
