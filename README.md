@@ -24,30 +24,33 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
   <!-- PROJECTS -->
 <h2 align="center" color="white">Projects (More coming soon...)</h2>
 <div align="center">
+	
   <table>
       <tr>
         <td width="50%">
           <h3 align="center">Get a Star</h3>
           <p align="center">
-            <a href="https://github.com/Lala0419/NASA-API" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/NASA_POD.gif" alt="NASA_POD"/></a>
-            <span> <a href="https://github.com/Lala0419/NASA-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+            <a href="https://github.com/Lala0419/NASA-API" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/NASA_POD.gif" alt="NASA_POD"/></a>
+<!--   Repo mark   -->
+		  <span> <a href="https://github.com/Lala0419/NASA-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- live site  -->
 	<a href="https://nasa-api-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
+<!-- discription  -->
             <p align="center">
-               
-            </p>
+               This app uses the NASA APOD API and presents the best astrophotographic photo of NASA resources every day.</p>
           </p>
         </td>
-	
-	
-        <td width="50%">
+       <td width="50%">
           <h3 align="center">Personal Portfolio</h3>
           <p align="center">
-            <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/personal_portfolio.gif" alt="Tic Tac Toe"/> </a>
+            <a href="https://github.com/Lala0419/portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/personal_portfolio.gif" alt="Portfolio"/></a>
+ <!--   Repo mark   -->
             <span> <a href="https://github.com/Lala0419/portfolio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- live site  -->
 	<a href="https://nanayaportfolio.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+<!-- discription  -->
             <p align="center">
-              An interactive 2–player tic-tac-toe game with win and draw validation
-            </p>
+		    personal portfolio using <strong>JavaScript, CSS3, HTML5</strong> - including links to my recent projects and my personal contacts.</p>
           </p>
         </td>
       </tr>
