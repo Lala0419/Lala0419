@@ -27,7 +27,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 	
   <table>
       <tr>
-        <td width="50%">
+        <td class="1" width="50%">
           <h3 align="center">Get a Star</h3>
           <p align="center">
             <a href="https://github.com/Lala0419/NASA-API" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/NASA_POD.gif" alt="NASA_POD"/></a>
@@ -40,7 +40,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
                This app uses the NASA APOD API and presents the best astrophotographic photo of NASA resources every day.</p>
           </p>
         </td>
-       <td width="50%">
+       <td class="2" width="50%">
           <h3 align="center">Personal Portfolio</h3>
           <p align="center">
             <a href="https://github.com/Lala0419/portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/personal_portfolio.gif" alt="Portfolio"/></a>
@@ -54,28 +54,35 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
           </p>
         </td>
       </tr>
-<!--       <tr>
-        <td width="50%">
-          <h3 align="center">Title</h3>
+      <tr>
+        <td class="3" width="50%">
+          <h3 align="center">My calculator</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="repo" alt="Repo" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live shite" alt="Live site" height="25px"></a></span>
+            <a href="https://github.com/Lala0419/100devs-calculator/tree/answer" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/my_personal_calculator.gif" alt="NASA_POD"/></a>
+<!--   Repo mark   -->
+		  <span> <a href="https://github.com/Lala0419/100devs-calculator/tree/answer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- live site  -->
+	<a href="https://my-standard-calculator.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
+<!-- discription  -->
             <p align="center">
-              Description.
-            </p>
+               This app uses the NASA APOD API and presents the best astrophotographic photo of NASA resources every day.</p>
           </p>
         </td>
-        <td width="50%">
-          <h3 align="center">Title</h3>
+       <td class="4" width="50%">
+          <h3 align="center">Food Checker</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="gif" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="gif" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="live shite" alt="Live Site" height="25px"></a> </span>
+            <a href="https://github.com/Lala0419/Food-checker" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/food_picker.gif" alt="Portfolio"/></a>
+ <!--   Repo mark   -->
+            <span> <a href="https://github.com/Lala0419/Food-checker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- live site  -->
+	<a href="https://food-checker-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
+<!-- discription  -->
             <p align="center">
-              Description.
-            </p>
+		    personal portfolio using <strong>JavaScript, CSS3, HTML5</strong> - including links to my recent projects and my personal contacts.</p>
           </p>
         </td>
-      </tr> -->
+      </tr>
+
   </table>
 </div>	
 </br>
