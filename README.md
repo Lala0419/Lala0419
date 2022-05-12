@@ -2,7 +2,7 @@
 
 <div align= center>
 <h2 align="center">Hi 👋🏽 I'm Nanaya Miki</h2>
-<p align="center">A passionate full stack developer from Vancouver, BC Canada. I’m currently learning **JavaScript** & building **MERN stack** at 100Devs agency. </p>
+<p align="center">A passionate full stack developer based in Vancouver, BC Canada. I’m currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p>
 </div>
 
 
@@ -111,6 +111,12 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 				 &nbsp&nbsp&nbsp
 			<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT"  height="50"/></a>
+				  &nbsp&nbsp&nbsp
+				 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://icongr.am/devicon/express-original.svg?size=128&color=999999" alt="EXPRESS"  height="50"/></a>		
+				  &nbsp&nbsp&nbsp
+				 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://icongr.am/devicon/git-original.svg?size=128&color=8a8585" alt="GIT"  height="50"/></a>
 				<br>
 				<br>	
 			</div>
