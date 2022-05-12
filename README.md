@@ -78,7 +78,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 	<a href="https://food-checker-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
-		   Simple app to find out what are the ingridients in the food. Perfect for those who are in sertain diets!</p>
+		   Simple app to find out the ingridients in the food. Perfect for those who are in certain diets!</p>
           </p>
         </td>
       </tr>
