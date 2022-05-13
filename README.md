@@ -2,6 +2,11 @@
 
 <div align= center>
 	
+	<img align="center" src="" alt="Erika Teal - Software Engineer Header"/>
+
+<!-- 	<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur">
+<br> -->
+
 <h2 align="center">Hi 👋🏽 I'm Nanaya Miki</h2>
 <p align="center">A passionate full stack developer based in Vancouver, BC Canada. I’m currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p>
 </div>
