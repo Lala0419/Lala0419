@@ -37,7 +37,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 	<a href="https://nasa-api-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
 <!-- discription  -->
             <p align="center">
-               API app uses the NASA APOD API and presents the best astrophotographic photo of NASA resources every day.</p>
+		    <strong>HTML5 CSS3 JavaScript </strong><br>API app uses the NASA APOD API and presents the best astrophotographic photo of NASA resources every day.</p>
           </p>
         </td>
        <td class="2" width="50%">
@@ -50,7 +50,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 	<a href="https://nanayaportfolio.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
-		    personal portfolio using <strong>JavaScript, CSS3, HTML5</strong> including links to my recent projects and my personal contacts.</p>
+		    <strong>HTML5 CSS3 JavaScript </strong><br> Personal portfolio including links to my recent projects, fun facts and my personal contacts. check this out for more info!</p>
           </p>
         </td>
       </tr>
@@ -65,7 +65,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 	<a href="https://my-standard-calculator.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
 <!-- discription  -->
             <p align="center">
-               Basic calculator with HTML5, CSS3, JavaScript and my very first time using OOP skills.</p>
+               <strong>HTML5 CSS3 JavaScript </strong><br>Basic calculator with my very first time using OOP skills.</p>
           </p>
         </td>
        <td class="4" width="50%">
@@ -78,7 +78,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 	<a href="https://food-checker-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
-		   Simple app to find out the ingridients in the food. Perfect for those who are in certain diets!</p>
+		   <strong>HTML5 CSS3 JavaScript </strong><br> Simple app to find out the ingridients in the food. Perfect for those who are in certain diets!</p>
           </p>
         </td>
       </tr>
