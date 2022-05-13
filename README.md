@@ -1,14 +1,11 @@
-
+<br>
+<br>
+<img align="center" src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/Nanaya%20Miki%20(1920%20%C3%97%20600%20px)%20(1).png" alt="Erika Teal - Software Engineer Header"/>
 
 <div align= center>
-	
-	<img align="center" src="" alt="Erika Teal - Software Engineer Header"/>
-
-<!-- 	<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=a6b4a2&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast;boba+tea+connoisseur">
-<br> -->
-
-<h2 align="center">Hi 👋🏽 I'm Nanaya Miki</h2>
-<p align="center">A passionate full stack developer based in Vancouver, BC Canada. I’m currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&duration=5230&color=2D96D9&lines=Love%2C+understanding+and+a+glass+of+whiskey;software+engineer+)](https://git.io/typing-svg)
+<p align="center">Hi👋🏽 I'm Nanaya, a passionate full-stack developer based in Vancouver, BC Canada. 
+	<br>Currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p>
 </div>
 
 
@@ -21,7 +18,7 @@
 Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for more information!</p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lala0419&theme=dark-smoky"(https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lala0419&theme=github-dark-blue"(https://git.io/streak-stats)
 </div>
   
   
@@ -40,7 +37,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 <!--   Repo mark   -->
 		  <span> <a href="https://github.com/Lala0419/NASA-API" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://nasa-api-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=25A1F9" alt="Live Site" height="25px" ></a></span>
+	<a href="https://nasa-api-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px" ></a></span>
 <!-- discription  -->
             <p align="center">
 		    <strong>HTML5 CSS3 JavaScript </strong><br>API app uses the NASA APOD API and presents the best astrophotographic photo of NASA resources every day.</p>
@@ -53,7 +50,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
  <!--   Repo mark   -->
             <span> <a href="https://github.com/Lala0419/portfolio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://nanayaportfolio.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=25A1F9" alt="Live Site" height="25px"></a> </span>
+	<a href="https://nanayaportfolio.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
 		    <strong>HTML5 CSS3 JavaScript </strong><br> Personal portfolio including links to my recent projects, fun facts and my personal contacts. check this out for more info!</p>
@@ -68,7 +65,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 <!--   Repo mark   -->
 		  <span> <a href="https://github.com/Lala0419/100devs-calculator/tree/answer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://my-standard-calculator.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=25A1F9" alt="Live Site" height="25px"></a></span>
+	<a href="https://my-standard-calculator.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a></span>
 <!-- discription  -->
             <p align="center">
                <strong>HTML5 CSS3 JavaScript </strong><br>Basic calculator with my very first time using OOP skills.</p>
@@ -81,7 +78,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
  <!--   Repo mark   -->
             <span> <a href="https://github.com/Lala0419/Food-checker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://food-checker-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=25A1F9" alt="Live Site" height="25px"></a> </span>
+	<a href="https://food-checker-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
 		   <strong>HTML5 CSS3 JavaScript </strong><br> Simple app to find out the ingridients in the food. Perfect for those who are in certain diets!</p>
