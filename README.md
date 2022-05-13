@@ -1,9 +1,10 @@
 <br>
 <br>
-<img align="center" src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/Nanaya%20Miki%20(1920%20%C3%97%20600%20px)%20(1).png" alt="Erika Teal - Software Engineer Header"/>
+<img align="center" src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/Nanaya%20Miki%20(1920%20%C3%97%20600%20px)%20(1).png" alt="Nanaya Miki - Software Engineer Header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com size=17&duration=5230&color=2D96D9&lines=Love%2C+understanding+and+a+glass+of+whiskey;software+engineer+)](https://git.io/typing-svg)
 
 <div align= center>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&duration=5230&color=2D96D9&lines=Love%2C+understanding+and+a+glass+of+whiskey;software+engineer+)](https://git.io/typing-svg)
 <p align="center">Hi👋🏽 I'm Nanaya, a passionate full-stack developer based in Vancouver, BC Canada. 
 	<br>Currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p>
 </div>
