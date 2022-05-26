@@ -60,16 +60,16 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
       </tr>
       <tr>
         <td class="3" width="50%">
-          <h3 align="center">My calculator</h3>
+          <h3 align="center">Fresh Drink</h3>
           <p align="center">
-            <a href="https://github.com/Lala0419/100devs-calculator/tree/answer" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/my_personal_calculator.gif" alt="NASA_POD"/></a>
+            <a href="https://freshdrink.netlify.app" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Fresh-Drink/blob/master/fresh_drink_2.gif" alt="NASA_POD"/></a>
 <!--   Repo mark   -->
-		  <span> <a href="https://github.com/Lala0419/100devs-calculator/tree/answer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+		  <span> <a href="https://github.com/Lala0419/Fresh-Drink" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://my-standard-calculator.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a></span>
+	<a href="https://freshdrink.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a></span>
 <!-- discription  -->
             <p align="center">
-               <strong>HTML5 CSS3 JavaScript </strong><br>Basic calculator with my very first time using OOP skills.</p>
+               <strong>HTML5 CSS3 JavaScript </strong><br>Your personal cocktail maker! <br> This app is to help you choose which cocktail to make for you and your loved ones🤍</p>
           </p>
         </td>
        <td class="4" width="50%">
