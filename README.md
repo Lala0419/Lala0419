@@ -149,7 +149,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 <p align="center">
   	 <a href="https://twitter.com/naynay0419" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TWITTER" height="30" width="50"/></a>
 	<a href="https://www.linkedin.com/in/nanayamiki" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LINKEDIN" height="30" width="50"/></a>
-	<a href="https://fb.com/nanaya miki" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FACEBOOK" height="30" width="50"/></a>
+	<a href="https://www.facebook.com/nanaya.miki" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FACEBOOK" height="30" width="50"/></a>
 	
 </p>
 </br>
