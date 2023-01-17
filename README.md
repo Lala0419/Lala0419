@@ -126,7 +126,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MONGODB"  height="70"/></a> 
 				 &nbsp&nbsp&nbsp
 				 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-	<img src=" https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="mySQL"  height="70"/></a>&nbsp&nbsp&nbsp
+	<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="mySQL"  height="70"/></a>&nbsp&nbsp&nbsp
 			<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NODEJS"  height="70"/></a> 
 				 &nbsp&nbsp&nbsp
