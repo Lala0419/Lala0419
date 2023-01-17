@@ -125,6 +125,8 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 			<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MONGODB"  height="70"/></a> 
 				 &nbsp&nbsp&nbsp
+				 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+	<img src=" https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="mySQL"  height="70"/></a>&nbsp&nbsp&nbsp
 			<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NODEJS"  height="70"/></a> 
 				 &nbsp&nbsp&nbsp
@@ -132,9 +134,9 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT"  height="50"/></a>
 				  &nbsp&nbsp&nbsp
 				 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://icongr.am/devicon/express-original.svg?size=128&color=999999" alt="EXPRESS"  height="50"/></a>		
+<img src="https://icongr.am/devicon/express-original.svg?size=128&color=999999" alt="EXPRESS"  height="50"/></a>
 				  &nbsp&nbsp&nbsp
-				 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+				 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
 <img src="https://icongr.am/devicon/git-original.svg?size=128&color=8a8585" alt="GIT"  height="50"/></a>
 				<br>
 				<br>	
