@@ -108,7 +108,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="70"/></a>
 				&nbsp&nbsp&nbsp
 				<a href="https://www.w3schools.com/sass/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="SASS" height="70"/></a>
+	<img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="SASS" height="70"/></a>
 				&nbsp&nbsp&nbsp
 				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" height="50"/></a>
