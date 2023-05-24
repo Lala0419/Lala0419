@@ -19,7 +19,7 @@
 Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for more information!</p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Lala0419&theme=github-dark-blue"(https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=Lala0419&theme=github-dark-blue"(https://git.io/streak-stats) />
 </div>
   
   
