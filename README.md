@@ -32,9 +32,9 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
   <table>
       <tr>
         <td class="1" width="50%">
-          <h3 align="center">Get a Star</h3>
+          <h3 align="center">Japanada</h3>
           <p align="center">
-            <a href="https://github.com/Japanada-FE" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/NASA_POD.gif" alt="FE repo"/></a>
+            <a href="https://github.com/Japanada-FE" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/capstone-japanada.gif" alt="FE repo"/></a>
 <!--   Repo mark   -->
 		  <span> <a href="https://github.com/Lala0419/Japanada-FE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 		  <span> <a href="https://github.com/Lala0419/Japanada-b" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
