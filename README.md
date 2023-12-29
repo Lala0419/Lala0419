@@ -34,7 +34,7 @@ Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for mor
         <td class="1" width="50%">
           <h3 align="center">Japanada</h3>
           <p align="center">
-            <a href="https://github.com/Japanada-FE" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/capstone-japanada.gif" alt="gif for japanada"/></a>
+            <a href="https://github.com/Japacada-FE" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/capstone-japanada.gif" alt="gif for japanada"/></a>
 <!--   Repo mark   -->
 		  <span> <a href="https://github.com/Lala0419/Japanada-FE" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 		  <span> <a href="https://github.com/Lala0419/Japanada-b" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
