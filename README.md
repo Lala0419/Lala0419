@@ -16,7 +16,7 @@
   <br>
 📫 Email me at <a href="mailto:nanayamiki@gmail.com" target="_blank" rel="noopener">nanayamiki@gmail.com</a>
   <br>
-Check out <a href="https://nanayaportfolio.netlify.app">my portfolio</a> for more information!</p>
+Check out <a href="https://nanayamiki">my portfolio</a> for more information!</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Lala0419&theme=github-dark-blue"(https://git.io/streak-stats) />
