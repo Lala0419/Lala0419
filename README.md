@@ -74,16 +74,16 @@ Check out <a href="https://nanayamiki">my portfolio</a> for more information!</p
           </p>
         </td>
        <td class="4" width="50%">
-          <h3 align="center">Food Checker</h3>
+          <h3 align="center">TODOMO</h3>
           <p align="center">
-            <a href="https://github.com/Lala0419/Food-checker" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/food_picker.gif" alt="Portfolio"/></a>
+            <a href="https://github.com/Lala0419/nodejs_todoapp" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/867bf0c1-bb8b-4644-acf7-5d831e0795b9" alt="Portfolio"/></a>
  <!--   Repo mark   -->
-            <span> <a href="https://github.com/Lala0419/Food-checker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+            <span> <a href="https://github.com/Lala0419/todomo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://food-checker-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
+	<a href="https://todowithnode.onrender.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
-		   <strong>HTML5 CSS3 JavaScript </strong><br> Simple app to find out the ingridients in the food. Perfect for those who are in certain diets!</p>
+		   <strong>JavaScript, Nodejs, mongoDB </strong><br> Minimalistic aesthetic todo list app that you can use to make your ToDo lists and also share them with others! Developed by vanilla Js and CRUD framework which you can write, edit, delete and complete!</p>
           </p>
         </td>
       </tr>
