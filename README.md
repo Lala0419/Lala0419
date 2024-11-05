@@ -78,7 +78,7 @@ Check out <a href="https://nanayamiki">my portfolio</a> for more information!</p
           <p align="center">
             <a href="https://github.com/Lala0419/nodejs_todoapp" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/867bf0c1-bb8b-4644-acf7-5d831e0795b9" alt="Portfolio"/></a>
  <!--   Repo mark   -->
-            <span> <a href="https://github.com/Lala0419/todomo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+            <span> <a href="https://github.com/Lala0419/nodejs_todoapp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
 	<a href="https://todowithnode.onrender.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
