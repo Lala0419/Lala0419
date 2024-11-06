@@ -45,16 +45,16 @@ Check out <a href="https://nanayamiki">my portfolio</a> for more information!</p
           </p>
         </td>
        <td class="2" width="50%">
-          <h3 align="center">Personal Portfolio</h3>
+          <h3 align="center"> Property Brothers </h3>
           <p align="center">
-            <a href="https://github.com/Lala0419/portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/personal_portfolio.gif" alt="Portfolio"/></a>
+            <a href="https://www.propertybrothershomeservices.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/9490489d-b4e3-472b-a43a-7eb7469be775" alt="PB"/></a>
  <!--   Repo mark   -->
-            <span> <a href="https://github.com/Lala0419/portfolio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+            <span> <a href="https://github.com/Lala0419/Final-Project" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
-	<a href="https://nanayaportfolio.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
+	<a href="https://www.propertybrothershomeservices.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
 <!-- discription  -->
             <p align="center">
-		    <strong>HTML5 CSS3 JavaScript </strong><br> Personal portfolio including links to my recent projects, fun facts and my personal contacts. check this out for more info!</p>
+		    <strong>React postgreSQL Ruby on rails </strong><br>For my freelancing project with a local home maintenance services company, I developed a visually appealing and functional website. This site features authentication, email integrations, Google reviews, and a chatbot. </p>
           </p>
         </td>
       </tr>
