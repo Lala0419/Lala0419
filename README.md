@@ -41,7 +41,7 @@ Check out <a href="https://nanayamiki">my portfolio</a> for more information!</p
 	<a href="https://nanayamiki.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px" ></a></span>
 <!-- discription  -->
             <p align="center">
-		    <strong>React Node.js Express </strong><br>This is an App for the Japanese community in BC, Canada. For Japanese newcomers to help them find a new sweet home!</p>
+		    <strong>Three.js React Tailwinds </strong><br>This 3D Web3 portfolio is an interactive showcase built with ThreeJS, React Three Fiber, and TailwindCSS. Featuring Framer Motion animations and optimized for responsiveness with Suspense and Preload, it highlights projects in a visually dynamic and engaging way across all devices.</p>
           </p>
         </td>
        <td class="2" width="50%">
