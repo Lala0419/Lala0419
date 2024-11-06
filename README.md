@@ -30,6 +30,35 @@ Check out <a href="https://nanayamiki">my portfolio</a> for more information!</p
 <div align="center">
 	
   <table>
+	   <tr>
+        <td class="1" width="50%">
+          <h3 align="center">Web3 portfolio</h3>
+          <p align="center">
+            <a href="https://nanayamiki.com" target="_blank" rel="noreferrer"> <img  src="https://github.com/user-attachments/assets/807e42bd-6566-4efd-8116-42d885df3d1f" alt="gif for web3"/></a>
+<!--   Repo mark   -->
+		  <span> <a href="https://github.com/Lala0419/3DwebCV" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- live site  -->
+	<a href="https://nanayamiki.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px" ></a></span>
+<!-- discription  -->
+            <p align="center">
+		    <strong>React Node.js Express </strong><br>This is an App for the Japanese community in BC, Canada. For Japanese newcomers to help them find a new sweet home!</p>
+          </p>
+        </td>
+       <td class="2" width="50%">
+          <h3 align="center">Personal Portfolio</h3>
+          <p align="center">
+            <a href="https://github.com/Lala0419/portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/personal_portfolio.gif" alt="Portfolio"/></a>
+ <!--   Repo mark   -->
+            <span> <a href="https://github.com/Lala0419/portfolio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
+<!-- live site  -->
+	<a href="https://nanayaportfolio.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span>
+<!-- discription  -->
+            <p align="center">
+		    <strong>HTML5 CSS3 JavaScript </strong><br> Personal portfolio including links to my recent projects, fun facts and my personal contacts. check this out for more info!</p>
+          </p>
+        </td>
+      </tr>
+      <tr>
       <tr>
         <td class="1" width="50%">
           <h3 align="center">Japanada</h3>
